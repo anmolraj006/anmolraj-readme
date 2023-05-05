@@ -12,7 +12,7 @@
 <ul>
 <li>🔭 I’m currently working on my personal projects</li>
 
-<li>🌱 I’m currently learning how LLMs work</li>
+<li>🌱 I’m currently exploring things around AI</li>
 
 <li>👨‍💻 All of my projects are available at https://anmolraj.in/</li>
 
