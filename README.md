@@ -20,7 +20,7 @@
 
 <li>📫 Reach me out on anmolraj006@gmail.com</li>
 
-<li>⚡ Fun fact I am a developer by day & tech tinkerer by night.</li>
+<li>⚡ Fun fact, I am a developer by day & tech tinkerer by night.</li>
 </ul>
 
 ## Tech Stack 💻
