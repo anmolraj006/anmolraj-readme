@@ -16,7 +16,7 @@
 
 <li>👨‍💻 All of my projects are available at https://anmolraj.in/</li>
 
-<li>💬 Ask me about React, React</li>
+<li>💬 Ask me about React</li>
 
 <li>📫 Reach me out on anmolraj006@gmail.com</li>
 
